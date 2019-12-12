@@ -1,0 +1,17 @@
+= SBFE Configuration Service API Guide
+
+== BP configuration
+
+=== For customer
+
+==== GET
+
+operation::get-price-configuration[snippets='http-request,path-parameters,request-parameters,http-response,response-fields']
+
+==== POST
+
+operation::post-price-configuration[snippets='http-request,path-parameters,request-parameters,request-fields,http-response']
+
+==== DELETE
+
+operation::delete-price-configuration[snippets='http-request,path-parameters,request-parameters']
